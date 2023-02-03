@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Valadi-Mostafa/Valadi-Mostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer React.js | Next.js
 
-Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
