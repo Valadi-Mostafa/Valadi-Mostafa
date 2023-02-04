@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Mostafa Valadi
-Front-end developer
+**Front-end developer**
+[Email address](m.valadi2002@gmail.com)
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,materialui,git,react,redux,typescript,next)](https://github.com/Valadi-Mostafa)
 ## Contact
