@@ -2,7 +2,7 @@
 **Front-end developer**
 * Working on my soft and hard skills currently
 * Having professional communication in English and Farsi
-* Proficient in Developing client-side websites and actively learning new technologies
+* Proficient in developing client-side websites and actively learning new technologies
 * Finding the best solutions and improving the weak points based on daily experience 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,materialui,git,react,redux,typescript,next)](https://github.com/Valadi-Mostafa)
